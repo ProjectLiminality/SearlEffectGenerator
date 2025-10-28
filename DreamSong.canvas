@@ -1,4 +1,13 @@
 {
-  "nodes": [],
-  "edges": []
+	"nodes":[
+		{"id":"86e05411ce98faf9","type":"file","file":"SearlEffectGenerator/MagicSquares/Magic Squares.jpeg","x":400,"y":0,"width":360,"height":279},
+		{"id":"6c5a1544993dbe16","type":"file","file":"SearlEffectGenerator/Aether/Aether.jpeg","x":400,"y":355,"width":360,"height":270},
+		{"id":"79fe37091d62bb46","type":"text","text":"magic squares map to quantum states somehow!","x":810,"y":90,"width":360,"height":100},
+		{"id":"430c2752afe545f6","type":"text","text":"which does funky stuff to the aether like over-unity and non-newtonian thrust","x":810,"y":440,"width":360,"height":100}
+	],
+	"edges":[
+		{"id":"68546bc93fb539f3","fromNode":"86e05411ce98faf9","fromSide":"bottom","toNode":"6c5a1544993dbe16","toSide":"top"},
+		{"id":"ebeef20308c18e50","fromNode":"86e05411ce98faf9","fromSide":"right","toNode":"79fe37091d62bb46","toSide":"left","toEnd":"none"},
+		{"id":"fedc90124b03480c","fromNode":"6c5a1544993dbe16","fromSide":"right","toNode":"430c2752afe545f6","toSide":"left","toEnd":"none"}
+	]
 }
