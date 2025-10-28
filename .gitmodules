@@ -1,0 +1,6 @@
+[submodule "MagicSquares"]
+	path = MagicSquares
+	url = /Users/davidrug/DemoVault/MagicSquares
+[submodule "Aether"]
+	path = Aether
+	url = /Users/davidrug/DemoVault/Aether
