@@ -1,6 +1,6 @@
 [submodule "MagicSquares"]
 	path = MagicSquares
-	url = /Users/davidrug/DemoVault/MagicSquares
+	url = https://github.com/ProjectLiminality/MagicSquares.git
 [submodule "Aether"]
 	path = Aether
-	url = /Users/davidrug/DemoVault/Aether
+	url = https://github.com/ProjectLiminality/Aether.git
